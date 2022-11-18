@@ -1,2 +1,2 @@
 # TodoList
- 
+![preview](./todo.gif)
